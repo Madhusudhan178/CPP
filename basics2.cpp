@@ -8,7 +8,11 @@ int main()
      // precedence and assocativity
      int a=10;
      int b=18;
-     
+     int c=7;
+     int d=4;
+     cout<<a+c*d/a-b<<endl;
+
+
 
 
 
