@@ -6,14 +6,5 @@ int main()
 {
      // Opertaion on data
      // precedence and assocativity
-     
-
-
-
-
-
-
-
-
      return 0;
 }
