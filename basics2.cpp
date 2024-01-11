@@ -5,7 +5,8 @@ int main()
 {
      // Opertaion on data
      // precedence and assocativity
-     cout<<boolalpha;
+     cout<<boolalpha;//Now it will print only true or false rather than  0/1
+     
 
      return 0;
 }
